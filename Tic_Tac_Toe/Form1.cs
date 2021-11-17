@@ -38,12 +38,53 @@ namespace Tic_Tac_Toe
                 a.Text = "O";
 
             turn = !turn;
-            b.Enabled = false;
+            a.Enabled = false;
+            turn_count++;
+
+            winnerCheck();
         }
 
         private void winnerCheck()
         {
+            bool the_winner = false;
 
+            if ((A1.Text == A2.Text) && (A2.Text == A3.Text) && (!A1.Enabled))
+                the_winner = true;
+            else if ((B1.Text == B2.Text) && (B2.Text == B3.Text) && (!B1.Enabled))
+                the_winner = true;
+            else if ((C1.Text == C2.Text) && (C2.Text == C3.Text) && (!C1.Enabled))
+                the_winner = true;
+
+
+            if(the_winner)
+            {
+                disableBtns();
+                string winner = "";
+                if (turn)
+                    winner = "O";
+                else
+                    winner = "X";
+
+                MessageBox.Show(winner + " Wins the Game!", "Congratulations!");
+            }
+            else
+            {
+                if(turn_count == 9)
+                    MessageBox.Show("DRAW!", "Try Again!");
+            }
+        }
+
+        private void disableBtns()
+        {
+            try
+            {
+                foreach (Control c in Controls)
+                {
+                    Button a = (Button)c;
+                    a.Enabled = false;
+                }
+            }
+            catch { }
         }
     }
 }
