@@ -8,3 +8,13 @@ X:\School\Visual Studio\Repository\Tic Tac Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug
 X:\School\Visual Studio\Repository\Tic Tac Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
 X:\School\Visual Studio\Repository\Tic Tac Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
 X:\School\Visual Studio\Repository\Tic Tac Toe\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe.config
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.exe
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\bin\Debug\Tic_Tac_Toe.pdb
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.AssemblyReference.cache
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.GenerateResource.cache
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.exe
+X:\School\Visual Studio\Repository\Tic_Tac_Toe\Tic_Tac_Toe\obj\Debug\Tic_Tac_Toe.pdb
