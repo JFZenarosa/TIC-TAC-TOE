@@ -98,5 +98,23 @@ namespace Tic_Tac_Toe
             }
             catch { }
         }
+
+        private void newGameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            turn = true;
+            turn_count = 0;
+
+            try
+            {
+                foreach (Control c in Controls)
+                {
+                    Button a = (Button)c;
+                    a.Enabled = true;
+                    a.Text = "";
+                }
+            }
+            catch { }
+
+        }
     }
 }
